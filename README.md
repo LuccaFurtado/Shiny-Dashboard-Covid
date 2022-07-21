@@ -7,7 +7,8 @@ A aplicação foi desenvolvida, foi feito o deploy e está disponível no link a
  A aplicação tem três abas. Na primeira, o usuário pode selecionar o estado, a data de interesse e qual dado deseja visualizar: novos casos, vacinados, total de casos,
 entre outros. Assim, pode visualizar o comportamento dos dados selecionados no tempo através de 2 gráficos:
 
-![image](https://user-images.githubusercontent.com/31989524/180123575-865bc0f2-83fe-4247-aa03-358212b2a9d0.png)
+![image](https://user-images.githubusercontent.com/31989524/180124266-e037003b-4934-42cd-8fad-368c22fc7b24.png)
+
 
 
 Na segunda, pode visualizar os dados para cada estado através de um mapa interativo do Brasil contendo alguns dos números mais importantes do covid , 
